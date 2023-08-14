@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourse/serii-fon.jpg</file>
+        <file>resourse/svetlii-serii.jpg</file>
+    </qresource>
+</RCC>

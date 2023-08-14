@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resourse/odnotonnii.jpg</file>
+        <file>resourse/temnii.png</file>
+        <file>resourse/serii.jpg</file>
+        <file>resourse/serii-fon.jpg</file>
+        <file>resourse/svetlii-serii.jpg</file>
+    </qresource>
+</RCC>
